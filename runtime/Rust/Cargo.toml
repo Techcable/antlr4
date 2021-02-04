@@ -1,0 +1,7 @@
+[package]
+name = "antlr"
+version = "4.7.1"
+description = "The antlr"
+authors = ["Terence Parr <parrt@antlr.org>", "Techcable <Techcable@techcable.net>"]
+# Not ready to be released
+publish = false
